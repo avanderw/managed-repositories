@@ -1,0 +1,9 @@
+{
+	repositories: [
+		{name: "character", url: "https://github.com/avanderw/character.git"},
+		{name: "cli-menu", url: "https://github.com/avanderw/cli-menu.git"},
+		{name: "economy", url: "https://github.com/avanderw/economy.git"},
+		{name: "favourite-java-dependencies", url: "https://github.com/avanderw/favourite-java-dependencies.git"},
+		{name: "procedural", url: "https://github.com/avanderw/procedural.git"}
+	]
+}
